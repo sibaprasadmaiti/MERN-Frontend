@@ -1,0 +1,5 @@
+1) npx create-react-app <project name>
+2) npm start
+3) npm install @mui/material @emotion/react @emotion/styled   (https://mui.com/)
+4) npm install npm install react-router-dom
+5) npm i axios
